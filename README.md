@@ -10,7 +10,7 @@ Each TM folder contains at least the following 4 VASP CONTCAR files:
    - *CONTCAR-TS:       The located transition state for the CO-O + TM_1@S-1.*
 
 However, in some reactions, the CO-O cleavage yielded a local CO + O minimum different from CONTCAR-Product. This local minimum was used as a final image to locate the TS within the NEB scheme, and is given as CONTCAR-Product-Post-Reaction.
-   *- CONTCAR-Product-Post-Reaction: The local minimum energy configuration found after the CO-O cleavage (only if it differs from the global energy configuration shown in CONTCAR-Product)
+   - *CONTCAR-Product-Post-Reaction: The local minimum energy configuration found after the CO-O cleavage (only if it differs from the global energy configuration shown in CONTCAR-Product)*
 
 
  
