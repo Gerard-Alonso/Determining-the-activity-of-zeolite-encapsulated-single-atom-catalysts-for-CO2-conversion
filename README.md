@@ -18,5 +18,5 @@ Please, if you use any of the optimized CONTCAR files in this repository cite th
 - *G. Alonso, E. López, F. Huarte, R. Sayós, H. Prats, P. Gamallo, Determining the activity of zeolite-encapsulated single-atom catalysts for CO2 conversion. Manuscript under preparation*
 
 If you use any of the CONTCAR-Surface files also cite:
-- *[H. Prats, G. Alonso, R. Sayós, P. Gamallo, Transition metal atoms encapsulated within microporous Silicalite-1 zeolite: A systematic computational study. Micropor. Mesopor. Mat., 308 (2020) 110462:1-8.](https://www.sciencedirect.com/science/article/abs/pii/S1387181120304649?via%3Dihub)*
+- *[H. Prats, G. Alonso, R. Sayós, P. Gamallo. Transition metal atoms encapsulated within microporous Silicalite-1 zeolite: A systematic computational study. Micropor. Mesopor. Mat., 308 (2020) 110462:1-8.](https://www.sciencedirect.com/science/article/abs/pii/S1387181120304649?via%3Dihub)*
 ``` 
