@@ -1,5 +1,5 @@
 
-# Determining-the-activity-of-zeolite-encapsulated-single-atom-catalysts-for-CO2-dissociation
+# Direct-CO2-dissociation-in-zeolite-encapsulated-single-atom-catalysts
 This repository contains the geometries of all species in the CO2 --> CO + O reaction (i.e., CO2 as reactant, CO + O as product and the CO-O transition state) in the 29 TM1@S-1 structures studied in the work "Determining the activity of zeolite encapsulated single atom catalysts for CO2 conversion".
 
 The files for each TM are in the "Optimized Geometries" folder and they are organized according to their periodic table group (e.g., the CONTCARs related to Au can be found in "Optimized Geometries/Group\_11/Au/")
