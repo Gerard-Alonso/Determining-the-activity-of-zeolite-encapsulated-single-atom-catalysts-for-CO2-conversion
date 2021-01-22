@@ -15,7 +15,7 @@ However, in some reactions, the CO-O cleavage yielded a local CO + O minimum dif
 
 # Citing this work
 Please, if you use any of the optimized CONTCAR files in this repository cite the original work where they were located:
-- *G. Alonso, E. López, F. Huarte, R. Sayós, H. Prats, P. Gamallo. Direct-CO2-dissociation-in-zeolite-encapsulated-single-atom-catalysts. Manuscript under preparation*
+- *G. Alonso, E. López, F. Huarte, R. Sayós, H. Prats, P. Gamallo. Direct CO2 dissociation in zeolite-encapsulated single-atom catalysts. Manuscript under preparation*
 
 If you use any of the CONTCAR-Surface files (without gas) also cite:
 - *[H. Prats, G. Alonso, R. Sayós, P. Gamallo. Transition metal atoms encapsulated within microporous Silicalite-1 zeolite: A systematic computational study. Micropor. Mesopor. Mat., 308 (2020) 110462:1-8.](https://www.sciencedirect.com/science/article/abs/pii/S1387181120304649?via%3Dihub)*
