@@ -1,6 +1,6 @@
 
-# Direct-CO2-dissociation-in-zeolite-encapsulated-single-atom-catalysts
-This repository contains the geometries of Reactants, Products and TSs in the 29 TM1@S-1 structures studied in the work "Determining the activity of zeolite encapsulated single atom catalysts for CO2 conversion". Those reactions are:
+# Zeolite-encapsulated single-atom catalysts for efficient CO2 conversion
+This repository contains the geometries of Reactants, Products and TSs in the 29 TM1@S-1 structures studied in the work "Zeolite-encapsulated single-atom catalysts for CO2 conversion". Those reactions are:
 
    - CO2     --> CO + O  
    - H2      --> H  + H
@@ -23,8 +23,8 @@ However, in some reactions, the direct product yiels a local minimum different f
 
 # Citing this work
 Please, if you use any of the optimized CONTCAR files in this repository cite the original work where they were located:
-- *G. Alonso, E. López, F. Huarte, R. Sayós, H. Prats, P. Gamallo. Direct CO2 dissociation in zeolite-encapsulated single-atom catalysts. Manuscript under preparation*
+- *G. Alonso, E. López, F. Huarte, R. Sayós, H. Prats, P. Gamallo. Zeolite-encapsulated single-atom catalysts for efficient CO2 conversion. Manuscript under preparation*
 
-If you use any of the CONTCAR-Surface files (without gas) also cite:
+Additionally, if you use any of the CONTCAR-Surface files (without gas) also cite:
 - *[H. Prats, G. Alonso, R. Sayós, P. Gamallo. Transition metal atoms encapsulated within microporous Silicalite-1 zeolite: A systematic computational study. Micropor. Mesopor. Mat., 308 (2020) 110462:1-8.](https://www.sciencedirect.com/science/article/abs/pii/S1387181120304649?via%3Dihub)*
 ``` 
